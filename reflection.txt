@@ -1,0 +1,33 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+The best example was me having to create at least 7 functions in my self-project.
+Having to make sure they only did 1 thing helped me to break down what I 
+wanted my project to accomplish, and made my code more clear. It helped me
+understand the purpose of functions better, and also helped me when I needed
+to create test functions.
+
+2. In your judgment, what is the value of test functions?
+
+Test functions make sure you're functions are doing what you want them to do
+all the time through testing different scenarios for you without having to run
+through your program multiple times. Also, it's never a bad thing to have a 
+2nd witness of the efficiency of your program even if you're super confident
+you did it right.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+If the exception/problem is obvious I tend to just go right in and fix it. If
+it's not, I try to debug, and usually I'll put a breakpoint where the function
+is called in main, and then jump into it. I'll look at what's going on with
+the variables, and try to see what's wrong/experiment with changes. I think
+1 thing I can do better is understanding what I'm trying to do better haha. But
+seriously, sometimes I don't know where to put my breakpoints because I don't 
+actually know what I'm trying to do. Part of that could be getting better 
+at keeping my functions simple and concise, and to 1 thing.
+
+
