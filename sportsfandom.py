@@ -34,8 +34,8 @@ def press_enter_to_begin():
             break
         else:
             print(f"Invalid response!")
-kcflag=True
-kcflag=False
+# kcflag=True
+# kcflag=False
 def debug(strvar):
     if kcflag:
         print(strvar)
